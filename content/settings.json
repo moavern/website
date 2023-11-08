@@ -2,33 +2,33 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Mohammed's Portfolio",
+    "titleTemplate": "%s · Mohammed Chauhan's Portfolio",
+    "description": "A portfolio to show off my coding projects.",
+    "author": "Mohammed Chauhan",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "I am a senior at the University of Dallas at Texas, currently pursusing a Bachelor's degree in Software Engineering. I plan to pursue my Master's in Software Engineering.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
+      
+      "github": "https://github.com/moavern",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/mohammedchauhan/",
+      "mail": "mailto:mohammedzchauhan@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Mohammed's Portfolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Home", "url": "/#about" },
+        { "label": "Projects", "url": "/blog" },
+        { "label": "Contact", "url": "/#github" }
+
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Sept19ResumeCopy copy.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

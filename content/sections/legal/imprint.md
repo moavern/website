@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
+Mohammed Chauhan<br />
 YOURSTREET<br />
 YOURCITY<br />
-YOURCOUNTRY
+USA
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>mohammedzchauhan@gmail.com</u>
 
 ---
 

@@ -1,22 +1,21 @@
 {
-  "intro": "Hej",
+  "intro": "Hi,",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "/Users/mohammedavern/portfolio/content/images/IMG_0691 3.jpg",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Mohammed Chauhan",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix" : "@Moavern"
+    
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a senior at the University of Texas at Dallas, completing my Bachelor's in Software Engineering and will be pursuing my Master's in Software Engineering. I am interested in Artificial Intelligence. I'm currently seeking 4 to 12 month internships or fulltime software development roles.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
